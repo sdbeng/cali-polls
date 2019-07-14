@@ -1,0 +1,7 @@
+body {
+    background: white url("images/forest1.jpg") repeat;
+}
+/* NOTE: the right background syntax was repeat, not `no repeat` */
+li a {
+    color:green;
+}
